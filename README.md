@@ -6,7 +6,8 @@ Before running notebooks for specific figures, you should run the files in "Data
 
 Systems requirements can be found in the file requirements.txt. 
 
-For fitting multi-state GLM-HMM, We followed the analysis procedure in work from [Ashwood et al. (2022)](https://doi.org/10.1038/s41593-021-01007-z) and followed the setup guidelines provided by the authors [here] (https://github.com/zashwood/glm-hmm/tree/main). Accordingly, to install the version of `ssm` used in our work, follow the instructions provided there, namely: 
+For fitting multi-state GLM-HMM, We followed the analysis procedure in work from [Ashwood et al. (2022)](https://doi.org/10.1038/s41593-021-01007-z) and followed the setup guidelines provided by the authors [here](https://github.com/zashwood/glm-hmm/tree/main). 
+Accordingly, to install the version of `ssm` used in our work, follow the instructions provided there, namely: 
     
 ```
 cd ssm
