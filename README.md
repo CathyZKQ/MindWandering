@@ -15,4 +15,4 @@ pip install numpy cython
 pip install -e .
 ```
 
-For fitting HDDM, we followed installation guidelines provided by the developers of the package [here] (https://github.com/hddm-devs/hddm). In addition, refer to requirements_hddm.txt in the folder "Figure3_HDDM" for system requirements.
+For fitting HDDM, we followed installation guidelines provided by the developers of the package [here](https://github.com/hddm-devs/hddm). In addition, refer to requirements_hddm.txt in the folder "Figure3_HDDM" for system requirements.
